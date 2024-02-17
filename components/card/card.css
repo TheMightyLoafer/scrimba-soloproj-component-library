@@ -1,0 +1,11 @@
+.card-container {
+    width: 30vw; /* Or other responsive units */
+    max-width: 330px; /* Optional maximum width */
+    background-color: whitesmoke;
+    padding: 25px;
+    border-radius: 25px;
+  }
+  
+  .card-container h3 {
+      text-align: center;
+  }

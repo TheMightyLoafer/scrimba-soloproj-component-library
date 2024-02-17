@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    background: #2545B8;
+    width: 50vw;
+    height: 25vh;
+    margin: 25vh;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+.content {
+    align-self: flex-end;
+    margin-right: 10vw;
+    color: white;
+}
+
